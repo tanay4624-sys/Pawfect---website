@@ -49,3 +49,10 @@ footer {
   border-radius: 10px;
   margin-bottom: 20px;
 }
+.hero img {
+  max-width: 400px;
+  height: auto;
+  display: block;
+  margin: 0 auto 20px;
+  border-radius: 10px;
+}
