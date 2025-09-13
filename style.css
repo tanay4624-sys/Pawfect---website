@@ -43,3 +43,9 @@ footer {
   text-align: center;
   padding: 20px;
 }
+.hero img {
+  width: 100%;
+  height: auto;
+  border-radius: 10px;
+  margin-bottom: 20px;
+}
